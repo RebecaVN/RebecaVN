@@ -1,16 +1,34 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb8de&height=120&section=heeader"/>
+ <h1>Olá! Eu me chamo Rebeca 👩🏻‍💻⭐</h1>
 
-<!--
-**RebecaVN/RebecaVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-ffb8de?style=for-the-badge&logo=LINKEDIN&logoColor=black)](https://www.linkedin.com/in/rebeca-nunes-43732221b/)
+[![GMAIL](https://img.shields.io/badge/GMAIL-ffb8de?style=for-the-badge&logo=GMAIL&logoColor=black)](mailto:rebecaviananunes@gmail.com) 
 
-Here are some ideas to get you started:
+<p> ⭐ IFSP - Técnica em Eletrotécnica. </p>
+<p> ⭐ SENAI - Desenvolvimento de Sistemas. </p>
+<p> ⭐ UBC - Ciência da Computação. </p>
+ ⭐ Combino meu conhecimento técnico em eletrotécnica com minha paixão pelo desenvolvimento de sistemas para criar soluções tecnológicas inovadoras. 🔌🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+
+<div align="center">
+  <a href="https://github.com/RebecaVN">
+ <img align="center" width="49%" height="195px"src="https://github-readme-stats.vercel.app/api?username=RebecaVN&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon"/>
+  </a>
+  <a href="https://github.com/RebecaVN">
+   <img align="center" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaVN&layout=compact&langs_count=7&theme=neon"/>
+  </a>
+  
+</div>
+
+</div>
+</br>
+
+<hr>
+<h3>💻 Linguagens e ferramentas que estudo ou domino: </h3>
+  <kbd> <img src="https://skillicons.dev/icons?i=java,js,nodejs,php,c,cs,css,html,kotlin,py,androidstudio,angular,bootstrap,dart,flutter,mysql,react,git,eclipse,vscode,mysql,gcp,figma,arduino,github,autocad,"/> </kbd>
+<hr>
+ <img width="100%" height="350px" src="/ass.svg">
+<hr>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb8de&height=120&section=footer"/>
