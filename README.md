@@ -29,5 +29,4 @@
 <h3>💻 Linguagens e ferramentas que estudo ou domino: </h3>
   <kbd> <img src="https://skillicons.dev/icons?i=java,js,nodejs,php,c,cs,css,html,kotlin,py,androidstudio,angular,bootstrap,dart,flutter,mysql,react,git,eclipse,vscode,mysql,gcp,figma,arduino,github,autocad,"/> </kbd>
 <hr>
- <img width="100%" height="350px" src="/ass.svg">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb8de&height=120&section=footer"/>
