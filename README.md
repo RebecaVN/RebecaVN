@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb8de&height=120&section=heeader"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa198b&height=120&section=heeader"/>
  <h1>Olá! Eu me chamo Rebeca 👩🏻‍💻⭐</h1>
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-ffb8de?style=for-the-badge&logo=LINKEDIN&logoColor=black)](https://www.linkedin.com/in/rebeca-nunes-43732221b/)
-[![GMAIL](https://img.shields.io/badge/GMAIL-ffb8de?style=for-the-badge&logo=GMAIL&logoColor=black)](mailto:rebecaviananunes@gmail.com) 
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-fa198b?style=for-the-badge&logo=LINKEDIN&logoColor=black)](https://www.linkedin.com/in/rebeca-nunes-43732221b/)
+[![GMAIL](https://img.shields.io/badge/GMAIL-fa198b?style=for-the-badge&logo=GMAIL&logoColor=black)](mailto:rebecaviananunes@gmail.com) 
 
 <p> ⭐ IFSP - Técnica em Eletrotécnica. </p>
 <p> ⭐ SENAI - Desenvolvimento de Sistemas. </p>
@@ -29,4 +29,4 @@
 <h3>💻 Linguagens e ferramentas que estudo ou domino: </h3>
   <kbd> <img src="https://skillicons.dev/icons?i=java,js,nodejs,php,c,cs,css,html,kotlin,py,androidstudio,angular,bootstrap,dart,flutter,mysql,react,git,eclipse,vscode,mysql,gcp,figma,arduino,github,autocad,"/> </kbd>
 <hr>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb8de&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa198b&height=120&section=footer"/>
